@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="391" xOffset="0" scrollWidth="1168" startPos="13722" endPos="13734" selMode="0" lang="C++" encoding="-1" userReadOnly="no" filename="Y:\mt9269-C003-D6\MTK368P\vendor\toptech\executables\motor\main.cpp" backupFilePath="" originalFileLastModifTimestamp="-800875872" originalFileLastModifTimestampHigh="30974741" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="435" xOffset="0" scrollWidth="1728" startPos="10882" endPos="10882" selMode="0" lang="C++" encoding="-1" userReadOnly="no" filename="Y:\mt9269-C003-D6\MTK368P\vendor\toptech\executables\Auto_focus\main.cpp" backupFilePath="" originalFileLastModifTimestamp="638143329" originalFileLastModifTimestampHigh="30974745" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1141637120" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="89" xOffset="0" scrollWidth="1392" startPos="3416" endPos="3416" selMode="0" lang="Resource file" encoding="-1" userReadOnly="no" filename="Y:\mt9269-C003-D6\MTK368P\vendor\toptech\init.product.rc" backupFilePath="" originalFileLastModifTimestamp="46704826" originalFileLastModifTimestampHigh="30974745" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
